@@ -9,7 +9,7 @@ The primary goal is to demonstrate that dimensionality reduction via LASSO can s
 ## Dataset
 
 * **Dataset Name:** Leukemia gene expression - CuMiDa
-* **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida) (as imported in the notebook)
+* **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida)
 * **Type:** High-dimensional data (Gene Expression Microarray)
 * **Dimensions:** 64 samples (rows) across 22,285 features (columns, including auxiliary columns). The gene expression data itself has **22,283 gene probes**.
 
