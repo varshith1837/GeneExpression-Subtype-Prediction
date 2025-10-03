@@ -6,7 +6,7 @@ The primary goal is to demonstrate that dimensionality reduction via LASSO can s
 
 ---
 
-## 💾 Dataset
+## Dataset
 
 * **Dataset Name:** Leukemia gene expression - CuMiDa
 * **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida) (as imported in the notebook)
@@ -26,7 +26,7 @@ The original categorical 'type' column was encoded into numerical categories:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 1.  **Feature Selection:** Use **LASSO (L1 regularization)** within a Multinomial Logistic Regression model to identify a subset of the most relevant genes (features) for leukemia subtype classification.
 2.  **Model Building:** Train a **Multi-Layer Perceptron (MLP)** classifier.
@@ -57,7 +57,7 @@ The original categorical 'type' column was encoded into numerical categories:
 
 ---
 
-## ✨ Results and Conclusions
+## Results and Conclusions
 
 ### Selected Gene Features (21 Genes)
 The following 21 gene probe columns were selected by the LASSO model:
@@ -102,7 +102,7 @@ The performance comparison clearly shows the benefit of the feature selection:
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 The project notebook was run using Python and requires the following libraries:
 
