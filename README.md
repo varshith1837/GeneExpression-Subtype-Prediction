@@ -111,4 +111,4 @@ pandas
 numpy
 sklearn
 matplotlib
-kagglehub # Used for initial data download, but data loaded from csv in the notebook
+kagglehub
